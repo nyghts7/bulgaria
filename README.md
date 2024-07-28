@@ -6,7 +6,7 @@ Population Source: Pop-stat (2021)
 
 [Legal Notice from Source](http://pop-stat.mashke.org/about/)
 
-[Processed JSON File]()
+[Processed JSON File](https://github.com/nyghts7/bulgaria/blob/main/bulgaria.txt)
 
 Coordinate Data is from [OpenStreetMap](https://www.openstreetmap.org/copyright) via [overpass-turbo.eu](https://github.com/tyrasd/overpass-turbo)
 
@@ -49,4 +49,4 @@ Stats:
 
 Image of Data:
 
-![Population distribution map of Belarus]()
+![Population distribution map of Bulgaria](https://github.com/nyghts7/bulgaria/blob/main/bulgaria.png)
